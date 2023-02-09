@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,700&family=Oswald:wght@200;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,700&family=Oswald:wght@200;300;400;500;700&family=Unbounded:wght@200;300&display=swap');
+
+body {
+  background-image: url(./images/bekky-bekks-N6yqlPqURR4-unsplash\ \(1\).jpg);
+  text-align: center;
+}
+
+.box {
+  width: 60%;
+  margin: 10px auto;
+  border-radius: 20px;
+  padding: 10px;
+  font-weight: bold;
+  height: 150px;
+}
+
+.image {
+  width: 250px;
+  height: 250px;
+  border-radius: 50px;
+  border: 5px solid red;
+  padding: 5px;
+}
+
+h1 {
+  color: #260F26;
+  letter-spacing: 30px;
+  font-family: Lora;
+  font-size: 50px;
+  font-weight: 700;
+  margin: 30px;
+}
+
+h2 {
+  color: #260F26;
+  letter-spacing: 3px;
+  font-family: Lora;
+  font-size: 30px;
+  font-weight: 50px;
+  margin: 30px;
+  padding-top: 75px;
+}
+
+.paragraph {
+  color: #260F26;
+  font-family: Lora;
+  font-size: 20px;
+  line-height: 40px;
+  padding-left: 0px;
+  padding: 100px;
+}
+
+a {
+  font-family: Lora;
+  font-size: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  color: #556F44;
+}
+
+a:hover{
+  color: #1F5C48;
+}
+
+li {
+  list-style-type: none;
+  padding: 50px;
+  display: inline-block;
+  font-size: 30px;
+  padding-inline-start: 0px;
+}
